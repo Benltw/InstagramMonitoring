@@ -3,8 +3,7 @@
 Tägliches, öffentlich zugängliches Monitoring der Instagram-Aktivität aller
 MdB-Accounts der fünf Bundestagsfraktionen (AfD, CDU/CSU, SPD, Grüne, Linke).
 
-Erstellt für die **CDU Deutschlands**. Vertraulich, ausschließlich für den
-internen Gebrauch.
+ausschließlich für den internen Gebrauch.
 
 ## Inhalt
 
@@ -67,10 +66,7 @@ manuell in dieses Repo committed und deployed.
   nicht indexiert. Ergänzend bitte GitHub-Pages-Zugriff über einen privaten Repo-Access
   absichern oder hinter Basic Auth (z. B. via Cloudflare Access) stellen.
 
-## Lizenz & Nutzung
 
-Ausschließlich für den internen Gebrauch der CDU Deutschlands. Keine Weitergabe
-an Dritte. Alle Instagram-Inhalte gehören den jeweiligen Urheber:innen.
 
 ## Kontakt
 
